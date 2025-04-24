@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6d5ca916-6360-457a-b974-18fd53223ffe)<h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name: R.PRIYANGA      </h3>
 <h3>Register Number/Staff Id: 212223230161        </h3>
 <H3>Aim:</H3>
